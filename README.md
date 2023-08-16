@@ -1,6 +1,4 @@
 # first-pygame
-這是利用pygame製作出來的一個遊戲。是修改自yt(https://www.youtube.com/watch?v=61eX0bFAsYs&amp;t=9914s)
+This is a game created using Pygame, adapted from a tutorial found on YouTube (https://www.youtube.com/watch?v=61eX0bFAsYs&amp;t=9914s).
 
-遊戲方式是玩家會操控一個飛船，可以上下左右移動，也可以射飛彈。場景會有石頭、jcp、鑽石由上往下墜落。要利用飛彈擊破物件，以取得更高的分數。
-
-遊戲程式分為兩大部分¬:定義物件與遊戲迴圈。前者的物件，我都會把同意種類的物件放進同一個群組裡。後者的遊戲迴圈，因為遊戲需要不斷執行，所以我把它放在一個while True裡。遊戲迴圈裡還需有個叫作update的函式。它的用途是用來更新每個物件的狀態。
+In the game, players control a spaceship that can move up, down, left, and right, and can also shoot projectiles. The scene features falling rocks, jcp objects, and diamonds from the top of the screen. The objective is to use the projectiles to destroy these objects and earn a higher score.
