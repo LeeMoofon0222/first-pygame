@@ -1,13 +1,13 @@
 # first-pygame
-<h2>說明</h2>
-這個專題是利用pygame所製作出來的遊戲修改自(https://www.youtube.com/watch?v=61eX0bFAsYs&amp)
-<h2>貢獻:</h2>
-在每行增加註解，新增更多物件與功能<br>(詳情可見: https://github.com/LeeMoofon0222/first-pygame/blob/main/introduce.docx)
-<h2>遊戲玩法:</h2>
-玩家會操控一個飛船，可以上下左右移動，也可以射飛彈。場景會有石頭、廢棄物、鑽石由上往下墜落。玩家要利用飛彈擊破物件，以取得更高的分數。分數越高，難度也會變得更高(物件生成率提升)<br><br>
-<h2>執行影片</h2>
+<h2>Description</h2>
+This project is a game developed using pygame, modified from (https://www.youtube.com/watch?v=61eX0bFAsYs&amp).
+<h2>Contributions:</h2>
+Added comments on every line, introduced more objects and features.<br>(Details can be seen at: https://github.com/LeeMoofon0222/first-pygame/blob/main/introduce.docx)
+<h2>Gameplay:</h2>
+Players control a spaceship that can move up, down, left, and right, and can also shoot missiles. The scene will have rocks, waste, and diamonds falling from the top. Players need to use missiles to break objects to score higher points. The higher the score, the more difficult the game becomes (increase in the rate of object generation).<br>
+<h2>Demo Video</h2>
 https://youtu.be/Kf2wgLgaCfY
-<h2>介紹</h2>
+<h2>Introduction</h2>
 <img src="https://github.com/LeeMoofon0222/first-pygame/blob/main/ReadMe_Picture/Pic1.png?raw=true">
 <img src="https://github.com/LeeMoofon0222/first-pygame/blob/main/ReadMe_Picture/Pic2.png?raw=true">
 <img src="https://github.com/LeeMoofon0222/first-pygame/blob/main/ReadMe_Picture/Pic3.png?raw=true">
